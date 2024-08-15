@@ -1,5 +1,6 @@
 import tkinter as tk
 import customtkinter as ctk
+print('hello world')
 
 #System settings
 ctk.set_appearance_mode("System")
